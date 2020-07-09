@@ -1,0 +1,13 @@
+ *{
+     text-align: center;
+     background-color: lightblue;
+ }
+
+ img{
+     height: 500px;
+     width: 500px;
+ }
+
+ .h1,img{
+     text-align: left;
+ }
