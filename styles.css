@@ -17,4 +17,14 @@ img{
     color: tomato;
 }
 
+h1,h2,h3,h4,p{
+    font-family: initial;
+    font-style: normal;
+}
+div{
+    font-family: 'Times New Roman', Times, serif;
+}
+ul,ol{
+    font-style: oblique;
+}
 
