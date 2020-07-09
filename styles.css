@@ -1,10 +1,7 @@
  *{
      text-align: center;
      background-color: lightblue;
- }
-
- body {
-     background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fpixnio.com%2Ffree-images%2F2017%2F10%2F17%2F2017-10-17-06-11-40.jpg&imgrefurl=https%3A%2F%2Fpixnio.com%2Fnature-landscapes%2Fsunrise%2Fsunrise-outdoor-dawn-sky-sun-nature-dusk-summer-sunrise&tbnid=ciTq12gHFprnbM&vet=12ahUKEwin69H5r8DqAhUa_BoKHQuoC-QQMygMegUIARDcAQ..i&docid=nx1A5NFawYHOIM&w=4924&h=2709&q=sky%20images&hl=en&ved=2ahUKEwin69H5r8DqAhUa_BoKHQuoC-QQMygMegUIARDcAQ")
+     margin-top: 0px;
  }
 
  img{
@@ -16,9 +13,15 @@ img{
     float: left;
 }
 
+.more{
+    display: flex;
+   justify-content: space-evenly;
+}
+
 #name{
     text-align: left;
     color: tomato;
+    margin-top: 0px;
 }
 
 h1,h2,h3,h4,p{
@@ -30,5 +33,15 @@ div{
 }
 ul,ol{
     font-style: oblique;
+}
+
+footer{
+    padding:25px;
+    background-color: whitesmoke;
+}
+
+footer p{
+    color: black;
+    text-align: center;
 }
 
