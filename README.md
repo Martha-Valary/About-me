@@ -1,21 +1,21 @@
 #Landing Portfolio Webpage
 #### {Brief description of application}, {Date of current version}
+Portfolio to sell me to the job market, Friday July 10 2020 ::
 #### By **{List of contributors}**
+Martha Valary Otieno
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This website created to give a reflection of myself as an upcoming programmer. It serves to provide viewers with the informations concerning me as a new programmer in the field. It also shows the track that i have taken to create some simple projects with their live links. This portfolio website contains all about me. It has different section namely name,about,skills, project and contact
 ## Setup/Installation Requirements
+* copy the repo link
 * Open a new tab in your local machine
 * Paste the link on the new tab
 * Click enter to run
-* clone the
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+* clone the the repo link to have it in your local machine
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+HTML
+CSS
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+EMAIL: marthavallary@gmail.com
 ### License
 * MIT - https://opensource.org/licenses/MIT
 
