@@ -1,8 +1,7 @@
-#Landing Portfolio Webpage
+Landing Portfolio Webpage
 #### {Brief description of application}, {Date of current version}
 Portfolio to sell me to the job market, Friday July 10 2020 ::
-#### By **{List of contributors}**
-Martha Valary Otieno
+By: Martha Valary Otieno
 ## Description
 This website created to give a reflection of myself as an upcoming programmer. It serves to provide viewers with the informations concerning me as a new programmer in the field. It also shows the track that i have taken to create some simple projects with their live links. This portfolio website contains all about me. It has different section namely name,about,skills, project and contact
 ## Setup/Installation Requirements
