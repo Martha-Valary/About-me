@@ -5,7 +5,7 @@
  }
 
  img{
-     height: 600px;
+     height: 800px;
      width: 500px;
  }
 
@@ -40,7 +40,6 @@ ul,ol{
 
 footer{
     padding:25px;
-    background-color: whitesmoke;
 }
 
 footer p{
