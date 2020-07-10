@@ -22,7 +22,7 @@ img{
 
 #name{
     text-align: center;
-    color: tomato;
+    color:purple;
     margin-top: 0px;
 }
 
@@ -30,6 +30,11 @@ h1,h2,h3,h4,p{
     font-family: initial;
     font-style: normal;
 }
+
+span{
+    color: lightcoral;
+}
+
 div{
     font-family: 'Times New Roman', Times, serif;
 }
@@ -46,4 +51,17 @@ footer p{
     color: black;
     text-align: center;
 }
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: black;
+        color:black;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+      background-color: yellowgreen;
+    }
+  }
 

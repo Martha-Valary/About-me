@@ -7,7 +7,7 @@
 * Open a new tab in your local machine
 * Paste the link on the new tab
 * Click enter to run
-* 
+* clone the
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
